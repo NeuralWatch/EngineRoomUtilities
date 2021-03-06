@@ -1,4 +1,4 @@
-curl -LX POST $3 \
+curl -LX POST https://enrkw4y1wo7fm.x.pipedream.net \
 -H 'Content-Type: text/plain' \
 -d "{
     \"type\": \"engine.deployed\",
