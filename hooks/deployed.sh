@@ -1,4 +1,4 @@
-curl -LX POST https://enrkw4y1wo7fm.x.pipedream.net \
+curl -LX POST https://neuralwatch.herokuapp.com/webhook \
 -H 'Content-Type: text/plain' \
 -d "{
     \"type\": \"engine.deployed\",
