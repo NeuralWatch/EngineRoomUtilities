@@ -1,4 +1,4 @@
-curl -LX POST https://neuralwatch-api.herokuapp.com/webhook \
+curl -LX POST https://engineroom.kaepler.com/webhook \
 -H 'Content-Type: text/plain' \
 -d "{
     \"type\": \"engine.deployed\",
